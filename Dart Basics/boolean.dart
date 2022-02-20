@@ -24,4 +24,5 @@ void main(List<String> args) {
   val = ch2 == ch1;
   print(val);
   val = ch1 != ch2 || ch1 == ch2;
+  print(val);
 }
